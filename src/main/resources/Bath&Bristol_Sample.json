@@ -1,0 +1,437 @@
+{
+  "id": "1Zhc8I0jQJuab3CDHjGwiA_0000",
+  "full_name": "jimy belmonte",
+  "first_name": "jimy",
+  "middle_initial": null,
+  "middle_name": null,
+  "last_name": "belmonte",
+  "gender": "male",
+  "birth_year": null,
+  "birth_date": null,
+  "linkedin_url": "linkedin.com/in/jimy-belmonte-8135103",
+  "linkedin_username": "jimy-belmonte-8135103",
+  "linkedin_id": "10224015",
+  "facebook_url": null,
+  "facebook_username": null,
+  "facebook_id": null,
+  "twitter_url": null,
+  "twitter_username": null,
+  "github_url": null,
+  "github_username": null,
+  "work_email": "jbelmonte@groupe-casino.fr",
+  "mobile_phone": null,
+  "industry": "retail",
+  "job_title": "ciso and rssi at franprix - leader price",
+  "job_title_role": null,
+  "job_title_sub_role": null,
+  "job_title_levels": [
+    "manager",
+    "cxo"
+  ],
+  "job_company_id": "groupe-casino",
+  "job_company_name": "groupe casino",
+  "job_company_website": "groupe-casino.fr",
+  "job_company_size": "5001-10000",
+  "job_company_founded": "1898",
+  "job_company_industry": "supermarkets",
+  "job_company_linkedin_url": "linkedin.com/company/groupe-casino",
+  "job_company_linkedin_id": "355329",
+  "job_company_facebook_url": "facebook.com/groupecasinorecrute",
+  "job_company_twitter_url": "twitter.com/groupe_casino",
+  "job_company_location_name": "saint-etienne-de-valoux, rhone-alpes, france",
+  "job_company_location_locality": "saint-etienne-de-valoux",
+  "job_company_location_region": "rhone-alpes",
+  "job_company_location_geo": "45.24,4.78",
+  "job_company_location_street_address": null,
+  "job_company_location_address_line_2": null,
+  "job_company_location_postal_code": null,
+  "job_company_location_country": "france",
+  "job_company_location_continent": "europe",
+  "job_last_updated": "2020-01-01",
+  "job_start_date": "2018-02",
+  "job_summary": null,
+  "location_name": "paris, île-de-france, france",
+  "location_locality": "paris",
+  "location_region": "île-de-france",
+  "location_country": "france",
+  "location_continent": "europe",
+  "location_street_address": null,
+  "location_address_line_2": null,
+  "location_postal_code": null,
+  "location_geo": "48.85,2.34",
+  "location_last_updated": "2020-09-01",
+  "inferred_salary": null,
+  "inferred_years_experience": 34,
+  "summary": "Resp Exploitation magasin et mise en production chez Franprix Leader Price",
+  "phone_numbers": [],
+  "emails": [
+    {
+      "address": "jimy.belmonte@free.fr",
+      "type": "personal"
+    },
+    {
+      "address": "jimy.belmonte@gmail.com",
+      "type": "personal"
+    },
+    {
+      "address": "jbelmonte@groupe-casino.fr",
+      "type": "current_professional"
+    }
+  ],
+  "interests": [],
+  "skills": [
+    "program management",
+    "software project management",
+    "pmo",
+    "team management",
+    "business intelligence",
+    "testing",
+    "software testing life cycle",
+    "itil certified",
+    "configuration management",
+    "release management"
+  ],
+  "location_names": [
+    "paris, île-de-france, france"
+  ],
+  "regions": [
+    "île-de-france, france"
+  ],
+  "countries": [
+    "france"
+  ],
+  "street_addresses": [],
+  "experience": [
+    {
+      "company": {
+        "name": "groupe casino",
+        "size": "5001-10000",
+        "id": "groupe-casino",
+        "founded": "1898",
+        "industry": "supermarkets",
+        "location": {
+          "name": "saint-etienne-de-valoux, rhone-alpes, france",
+          "locality": "saint-etienne-de-valoux",
+          "region": "rhone-alpes",
+          "country": "france",
+          "continent": "europe",
+          "street_address": null,
+          "address_line_2": null,
+          "postal_code": null,
+          "geo": "45.24,4.78"
+        },
+        "linkedin_url": "linkedin.com/company/groupe-casino",
+        "linkedin_id": "355329",
+        "facebook_url": "facebook.com/groupecasinorecrute",
+        "twitter_url": "twitter.com/groupe_casino",
+        "website": "groupe-casino.fr"
+      },
+      "start_date": "2011",
+      "end_date": "2012",
+      "title": {
+        "name": "project manager at franprix - leader price",
+        "role": "operations",
+        "sub_role": "project_management",
+        "levels": [
+          "manager"
+        ]
+      },
+      "location_names": [
+        "paris, île-de-france, france"
+      ],
+      "is_primary": false,
+      "summary": null
+    },
+    {
+      "company": {
+        "name": "csc",
+        "size": "10001+",
+        "id": "csc",
+        "founded": "1959",
+        "industry": "information technology and services",
+        "location": {
+          "name": "falls church, virginia, united states",
+          "locality": "falls church",
+          "region": "virginia",
+          "country": "united states",
+          "continent": "north america",
+          "street_address": "3170 fairview park drive",
+          "address_line_2": null,
+          "postal_code": "22042",
+          "geo": "38.88,-77.17"
+        },
+        "linkedin_url": "linkedin.com/company/csc",
+        "linkedin_id": "1120",
+        "facebook_url": "facebook.com/csc",
+        "twitter_url": "twitter.com/cscnews",
+        "website": "csc.com"
+      },
+      "start_date": "2006",
+      "end_date": "2011",
+      "title": {
+        "name": "project manager",
+        "role": "operations",
+        "sub_role": "project_management",
+        "levels": [
+          "manager"
+        ]
+      },
+      "location_names": [],
+      "is_primary": false,
+      "summary": null
+    },
+    {
+      "company": {
+        "name": "bsb",
+        "size": "501-1000",
+        "id": "bsb",
+        "founded": "1995",
+        "industry": "information technology and services",
+        "location": {
+          "name": "brussels, brussels hoofdstedelijk gewest, belgium",
+          "locality": "brussels",
+          "region": "brussels hoofdstedelijk gewest",
+          "country": "belgium",
+          "continent": "europe",
+          "street_address": null,
+          "address_line_2": null,
+          "postal_code": null,
+          "geo": "50.83,4.33"
+        },
+        "linkedin_url": "linkedin.com/company/bsb",
+        "linkedin_id": "162810",
+        "facebook_url": null,
+        "twitter_url": null,
+        "website": "bsb.com"
+      },
+      "start_date": "2004",
+      "end_date": "2006",
+      "title": {
+        "name": "project manager",
+        "role": "operations",
+        "sub_role": "project_management",
+        "levels": [
+          "manager"
+        ]
+      },
+      "location_names": [
+        "paris, île-de-france, france"
+      ],
+      "is_primary": false,
+      "summary": null
+    },
+    {
+      "company": {
+        "name": "innetis",
+        "size": "1-10",
+        "id": "innetis",
+        "founded": null,
+        "industry": "information technology and services",
+        "location": {
+          "name": "france",
+          "locality": null,
+          "region": null,
+          "country": "france",
+          "continent": "europe",
+          "street_address": null,
+          "address_line_2": null,
+          "postal_code": null,
+          "geo": null
+        },
+        "linkedin_url": "linkedin.com/company/innetis",
+        "linkedin_id": "39097",
+        "facebook_url": null,
+        "twitter_url": null,
+        "website": null
+      },
+      "start_date": "2000",
+      "end_date": "2004",
+      "title": {
+        "name": "project manager",
+        "role": "operations",
+        "sub_role": "project_management",
+        "levels": [
+          "manager"
+        ]
+      },
+      "location_names": [
+        "paris, île-de-france, france"
+      ],
+      "is_primary": false,
+      "summary": null
+    },
+    {
+      "company": {
+        "name": "tescom",
+        "size": "201-500",
+        "id": "tescom",
+        "founded": "1990",
+        "industry": "information technology and services",
+        "location": {
+          "name": "atlanta, georgia, united states",
+          "locality": "atlanta",
+          "region": "georgia",
+          "country": "united states",
+          "continent": "north america",
+          "street_address": "3525 piedmont road northeast",
+          "address_line_2": null,
+          "postal_code": "30305",
+          "geo": "33.74,-84.38"
+        },
+        "linkedin_url": "linkedin.com/company/tescom",
+        "linkedin_id": "216445",
+        "facebook_url": null,
+        "twitter_url": null,
+        "website": "tescom-intl.com"
+      },
+      "start_date": "1999",
+      "end_date": "2000",
+      "title": {
+        "name": "consultant - software test manager",
+        "role": "engineering",
+        "sub_role": "software",
+        "levels": [
+          "manager"
+        ]
+      },
+      "location_names": [
+        "paris, île-de-france, france"
+      ],
+      "is_primary": false,
+      "summary": null
+    },
+    {
+      "company": {
+        "name": "csc",
+        "size": "10001+",
+        "id": "csc",
+        "founded": "1959",
+        "industry": "information technology and services",
+        "location": {
+          "name": "falls church, virginia, united states",
+          "locality": "falls church",
+          "region": "virginia",
+          "country": "united states",
+          "continent": "north america",
+          "street_address": "3170 fairview park drive",
+          "address_line_2": null,
+          "postal_code": "22042",
+          "geo": "38.88,-77.17"
+        },
+        "linkedin_url": "linkedin.com/company/csc",
+        "linkedin_id": "1120",
+        "facebook_url": "facebook.com/csc",
+        "twitter_url": "twitter.com/cscnews",
+        "website": "csc.com"
+      },
+      "start_date": "1986",
+      "end_date": "1999",
+      "title": {
+        "name": "consultant - team leader",
+        "role": null,
+        "sub_role": null,
+        "levels": [
+          "manager"
+        ]
+      },
+      "location_names": [],
+      "is_primary": false,
+      "summary": null
+    },
+    {
+      "company": {
+        "name": "groupe casino",
+        "size": "5001-10000",
+        "id": "groupe-casino",
+        "founded": "1898",
+        "industry": "supermarkets",
+        "location": {
+          "name": "saint-etienne-de-valoux, rhone-alpes, france",
+          "locality": "saint-etienne-de-valoux",
+          "region": "rhone-alpes",
+          "country": "france",
+          "continent": "europe",
+          "street_address": null,
+          "address_line_2": null,
+          "postal_code": null,
+          "geo": "45.24,4.78"
+        },
+        "linkedin_url": "linkedin.com/company/groupe-casino",
+        "linkedin_id": "355329",
+        "facebook_url": "facebook.com/groupecasinorecrute",
+        "twitter_url": "twitter.com/groupe_casino",
+        "website": "groupe-casino.fr"
+      },
+      "location_names": [],
+      "end_date": null,
+      "start_date": "2018-02",
+      "title": {
+        "name": "ciso and rssi at franprix - leader price",
+        "role": null,
+        "sub_role": null,
+        "levels": [
+          "manager",
+          "cxo"
+        ]
+      },
+      "is_primary": true,
+      "summary": null
+    },
+    {
+      "company": {
+        "name": "groupe casino",
+        "size": "5001-10000",
+        "id": "groupe-casino",
+        "founded": "1898",
+        "industry": "supermarkets",
+        "location": {
+          "name": "saint-etienne-de-valoux, rhone-alpes, france",
+          "locality": "saint-etienne-de-valoux",
+          "region": "rhone-alpes",
+          "country": "france",
+          "continent": "europe",
+          "street_address": null,
+          "address_line_2": null,
+          "postal_code": null,
+          "geo": "45.24,4.78"
+        },
+        "linkedin_url": "linkedin.com/company/groupe-casino",
+        "linkedin_id": "355329",
+        "facebook_url": "facebook.com/groupecasinorecrute",
+        "twitter_url": "twitter.com/groupe_casino",
+        "website": "groupe-casino.fr"
+      },
+      "location_names": [
+        "saint-etienne-de-valoux, rhone-alpes, france",
+        "marne, grand est, france"
+      ],
+      "end_date": "2018-02",
+      "start_date": "2012-09",
+      "title": {
+        "name": "it production manager at franprix - leader price",
+        "role": "engineering",
+        "sub_role": "information_technology",
+        "levels": [
+          "manager"
+        ]
+      },
+      "is_primary": false,
+      "summary": null
+    }
+  ],
+  "education": [],
+  "profiles": [
+    {
+      "network": "linkedin",
+      "id": "10224015",
+      "url": "linkedin.com/in/jimy-belmonte-8135103",
+      "username": "jimy-belmonte-8135103"
+    }
+  ],
+  "version_status": {
+    "status": "updated",
+    "contains": [],
+    "previous_version": "11.0",
+    "current_version": "12.0"
+  }
+}
